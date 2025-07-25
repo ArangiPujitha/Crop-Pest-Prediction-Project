@@ -8,6 +8,7 @@ A Machine Learning project to predict crop pests using environmental and crop-re
 
 - vedio_pest_final.ipynb – Main Colab notebook
 - requirements.txt – Required Python libraries
+- PestV1:yolov9.zip – Dataset used in the project
 
 ---
 
