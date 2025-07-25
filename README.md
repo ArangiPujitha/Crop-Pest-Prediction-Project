@@ -1,32 +1,31 @@
 # 🌾 Crop Pest Prediction using YOLOv9
 
-This project uses machine learning to predict crop pests based on input features. It aims to assist farmers and agricultural experts in identifying pest risks early and taking preventive actions.
+A Machine Learning project to predict crop pests using environmental and crop-related features. Built using Python in Google Colab.
 
-## 📁 Project Description
+---
 
-This notebook was developed using Google Colab and includes:
-- Data preprocessing
-- Exploratory Data Analysis (EDA)
-- Model training using classification algorithms
-- Model evaluation and accuracy results
-- Predictions based on test data
+## 📂 Project Contents
 
-## 🚀 How to Run
+- vedio_pest_final.ipynb – Main Colab notebook
+- requirements.txt – Required Python libraries
 
-1. Download the notebook file vedio pest final.ipynb
-2. Open with [Google Colab](https://colab.research.google.com/)
-3. Run all cells after uploading the dataset (if applicable)
+---
 
-## 📦 Requirements
+## 🚀 How to Run This Project
 
-- Python 3.x
-- pandas
-- scikit-learn
-- matplotlib
-- seaborn
-- numpy
+### 🔹 Option 1: Open in Google Colab
 
-Install using:
+1. Click this link:  
+   [Open in Colab](https://colab.research.google.com/github/ArangiPujitha/Crop-Pest-Prediction-Project/blob/main/vedio_pest_final.ipynb)
 
+2. Upload any required dataset (CSV file, if applicable).
+3. Run the notebook step by step.
+
+---
+
+### 🔹 Option 2: Run Locally (Advanced)
+
+#### 1. Clone the repository
 ```bash
-pip install pandas scikit-learn matplotlib seaborn numpy
+git clone https://github.com/ArangiPujitha/Crop-Pest-Prediction-Project.git
+cd Crop-Pest-Prediction-Project
